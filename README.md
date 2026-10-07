@@ -6,6 +6,8 @@ English · [中文](README.zh.md) · [Español](README.es.md) · [Deutsch](READM
 
 🌐 **[tonu.app](https://tonu.app)** · [GitHub @frommmmmg](https://github.com/frommmmmg)
 
+✍️ By **姜芊泽 (Jiang Qianze)** · WeChat Official Account: **Pin海引航**
+
 </div>
 
 > **This repository is a showcase, not a source release.** Tonu.app is closed-source, so there is no code here, only what it does, how it is built and what it looks like. To talk about it, get in touch through my [GitHub profile](https://github.com/frommmmmg).
@@ -87,6 +89,18 @@ Good designers keep a private stash of palettes. Tonu turns any reference image 
 - **Skins that cost nothing until used.** Each interface skin is a single scoped stylesheet fetched the first time it is picked. A returning visitor's skin loads during page load, with the page held back briefly so the default never flashes first. Posters are never restyled.
 - **Lean internationalisation.** English is written into the HTML, other languages are single script files fetched on demand, links like `?lang=` work, and a checker script warns about missing keys.
 - **Honest about its limits.** The interface translations are machine-made and not yet reviewed by native designers, and that is stated in the project's own notes.
+
+<!--author-->
+## About the author
+
+<img src="assets/wechat-qr.png" alt="QR code of the WeChat Official Account Pin海引航" width="200" align="right">
+
+**姜芊泽 (Jiang Qianze)** is a pen name. I am an independent developer who builds tools, data and automation for brands, merchants and creators going global. Every project in these showcases was designed, built and run end to end by me alone, from the product idea to the servers and the documentation.
+
+I write about this work on my WeChat Official Account, **Pin海引航** (in Chinese). Scan the code to follow it, or find me on [GitHub](https://github.com/frommmmmg).
+
+<br clear="right">
+<!--/author-->
 
 **Other showcases:** [AffProof](https://github.com/frommmmmg/AffProof-showcase) · [AutoPin-CS](https://github.com/frommmmmg/AutoPin-CS-showcase) · [AffiliateScraper](https://github.com/frommmmmg/AffiliateScraper-showcase)
 

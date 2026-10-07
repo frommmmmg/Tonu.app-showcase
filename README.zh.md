@@ -6,6 +6,8 @@
 
 🌐 **[tonu.app](https://tonu.app)** · [GitHub @frommmmmg](https://github.com/frommmmmg)
 
+✍️ 作者 **姜芊泽** · 微信公众号: **Pin海引航**
+
 </div>
 
 > **本仓库仅用于展示，不公开源码。** Tonu.app 不开源，所以这里没有代码，只介绍它做什么、怎么构建、长什么样。想聊聊它，请通过我的 [GitHub 主页](https://github.com/frommmmmg)联系我。
@@ -87,6 +89,18 @@
 - **皮肤不用就不花成本。** 每套界面皮肤都是一份限定作用域的样式表，第一次选中时才加载。回访用户的皮肤会在页面加载期间载入，并让页面稍作等待，避免先闪一下默认样式。海报永远不会被改样式。
 - **精简的国际化。** 英文直接写在 HTML 里，其他语言是按需获取的单个脚本文件，支持 `?lang=` 这样的链接，还有一个检查脚本会提示缺失的键。
 - **对局限很坦率。** 界面译文是机器翻译，还没有母语设计师审校，项目自己的笔记里也这样写明。
+
+<!--author-->
+## 关于作者
+
+<img src="assets/wechat-qr.png" alt="微信公众号 Pin海引航 的二维码" width="200" align="right">
+
+**姜芊泽** 是我的笔名。我是一名独立开发者，致力于为出海品牌、商家和创作者提供工具、数据和自动化方案。这些展示里的每个项目，从产品想法到服务器和文档，都是我一个人设计、构建并运营的。
+
+我在微信公众号 **Pin海引航** 上写这方面的内容。扫码关注，或者到 [GitHub](https://github.com/frommmmmg) 找我。
+
+<br clear="right">
+<!--/author-->
 
 **其他项目展示:** [AffProof](https://github.com/frommmmmg/AffProof-showcase) · [AutoPin-CS](https://github.com/frommmmmg/AutoPin-CS-showcase) · [AffiliateScraper](https://github.com/frommmmmg/AffiliateScraper-showcase)
 

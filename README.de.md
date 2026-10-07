@@ -6,6 +6,8 @@
 
 🌐 **[tonu.app](https://tonu.app)** · [GitHub @frommmmmg](https://github.com/frommmmmg)
 
+✍️ Von **姜芊泽 (Jiang Qianze)** · WeChat-Offizialkonto: **Pin海引航**
+
 </div>
 
 > **Dieses Repository ist ein Schaufenster, keine Quellcode-Veröffentlichung.** Tonu.app ist nicht quelloffen, deshalb gibt es hier keinen Code, nur was es kann, wie es gebaut ist und wie es aussieht. Wenn du darüber sprechen möchtest, melde dich über mein [GitHub-Profil](https://github.com/frommmmmg).
@@ -87,6 +89,18 @@ Gute Designer führen eine private Sammlung von Paletten. Tonu macht aus jedem R
 - **Skins, die nichts kosten, bis man sie nutzt.** Jeder Oberflächen-Skin ist ein einzelnes, gekapseltes Stylesheet, das beim ersten Auswählen geladen wird. Der Skin eines wiederkehrenden Besuchers wird beim Seitenaufbau geladen, die Seite wird kurz zurückgehalten, damit nicht zuerst der Standard aufblitzt. Poster werden nie umgestaltet.
 - **Schlanke Internationalisierung.** Englisch steht im HTML, andere Sprachen sind einzelne Skriptdateien, die bei Bedarf geladen werden, Links wie `?lang=` funktionieren, und ein Prüfskript warnt vor fehlenden Schlüsseln.
 - **Ehrlich über die Grenzen.** Die Oberflächenübersetzungen sind maschinell und noch nicht von muttersprachlichen Designern geprüft, und das steht auch in den eigenen Projektnotizen.
+
+<!--author-->
+## Über den Autor
+
+<img src="assets/wechat-qr.png" alt="QR-Code des WeChat-Offizialkontos Pin海引航" width="200" align="right">
+
+**姜芊泽 (Jiang Qianze)** ist ein Pseudonym. Ich bin unabhängiger Entwickler und baue Werkzeuge, Daten und Automatisierung für Marken, Händler und Creator, die ins Ausland expandieren. Jedes Projekt in diesen Vorstellungen habe ich allein entworfen, gebaut und betrieben, von der Produktidee bis zu Servern und Dokumentation.
+
+Über diese Arbeit schreibe ich in meinem WeChat-Offizialkonto **Pin海引航** (auf Chinesisch). Scanne den Code, um ihm zu folgen, oder finde mich auf [GitHub](https://github.com/frommmmmg).
+
+<br clear="right">
+<!--/author-->
 
 **Weitere Projekte:** [AffProof](https://github.com/frommmmmg/AffProof-showcase) · [AutoPin-CS](https://github.com/frommmmmg/AutoPin-CS-showcase) · [AffiliateScraper](https://github.com/frommmmmg/AffiliateScraper-showcase)
 
